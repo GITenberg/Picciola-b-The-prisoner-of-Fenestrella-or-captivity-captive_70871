@@ -1,0 +1,54 @@
+_repo: Picciola-b-The-prisoner-of-Fenestrella-or-captivity-captive_70871
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gueldry, Ferdinand-Joseph
+    aliases:
+    - Gueldry, Ferdinand
+    - Gueldry, J. F.
+    - Gueldry, Joseph Ferdinand‏
+    - Gueldry, Joseph-Ferdinand
+    birthdate: 1858
+    deathdate: 1945
+    gutenberg_agent_id: '55970'
+    url: http://www.gutenberg.org/2009/agents/55970
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferdinand_Gueldry
+    - https://fr.wikipedia.org/wiki/Ferdinand_Gueldry
+creator:
+  author:
+    agent_name: Saintine, X.-B. (Xavier-Boniface)
+    aliases:
+    - Boniface, Joseph-Xavier
+    - Saintine, X. B.
+    - Saintine, Joseph-Xavier Boniface
+    - Xavier, M.
+    - Saintine, X.-B. de (Xavier-Boniface de)
+    - Saintine, Xavier Boniface de
+    birthdate: 1798
+    deathdate: 1865
+    gutenberg_agent_id: '3984'
+    url: http://www.gutenberg.org/2009/agents/3984
+    wikipedia:
+    - https://en.wikipedia.org/wiki/X._B._Saintine
+    - https://fr.wikipedia.org/wiki/Saintine
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Picciola'
+gutenberg_issued: '2023-05-27'
+identifiers:
+  gutenberg: '70871'
+language: en
+pgterms:marc905: 20200919121538saintine
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: Juliet Sutherland and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Picciola : $b The prisoner of Fenestrella or, captivity captive'
+url: http://www.gutenberg.org/ebooks/70871
