@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Ferdinand_Gueldry
     - https://fr.wikipedia.org/wiki/Ferdinand_Gueldry
+covers:
+- cover_type: archival
+  image_path: 70871-h/images/cover.jpg
 creator:
   author:
     agent_name: Saintine, X.-B. (Xavier-Boniface)
@@ -33,6 +36,8 @@ creator:
     - https://en.wikipedia.org/wiki/X._B._Saintine
     - https://fr.wikipedia.org/wiki/Saintine
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Picciola'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70871#Picciola-b-The-prisoner-of-Fenestrella-or-captivity-captive
 gutenberg_issued: '2023-05-27'
 identifiers:
   gutenberg: '70871'
